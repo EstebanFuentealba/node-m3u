@@ -5,3 +5,5 @@ foo.mp3
 bar.mp3
 #EXTINF:10,Artist - Title
 last.mp3
+#EXTINF:10 tvg-logo="http://placehold.it/200x200",group-title="group A",Artist - Title
+last.mp3
